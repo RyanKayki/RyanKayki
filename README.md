@@ -52,8 +52,6 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
   <img height="30em" src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="(https://www.instagram.com/ryan.kpssz/)">
+<a href="https://www.instagram.com/ryan.kpssz/">
   <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
-<br>
