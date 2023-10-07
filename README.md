@@ -34,8 +34,8 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
 
 <div>
 <a href="https://github.com/RyanKayki">
-<img height="30em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKayki&layout=compact&langs_count=7&theme=dracula"/>
-<img height="30em" height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKayki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKayki&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKayki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <p align="left">Obrigado por ver até aqui, se quiser entrar em contato, está logo abaixo 😁</p>
