@@ -28,6 +28,10 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
 <div>
     <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+
 </div>
 
 ----
