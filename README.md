@@ -48,7 +48,7 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="ryan.santos.senai@gmail.com">
+<a href="mailto:ryan.santos.senai@gmail.com">
   <img height="30em" src="https://img.shields.io/badge/EMAIL-BB001B?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
