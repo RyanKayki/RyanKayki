@@ -44,7 +44,7 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
 
 <p align="left">Obrigado por ver até aqui, se quiser entrar em contato, está logo abaixo 😁</p>
 
-<a href="https://www.linkedin.com/in//">
+<a href="https://www.linkedin.com/in/ryan-kayki-pedroso-santos-752723294/">
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
