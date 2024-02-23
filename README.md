@@ -2,10 +2,10 @@
 
 ----
 
-Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvimento de Sistemas, sou mais chegado a parte de Back-End.
+Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento de sistemas. Atualmente, estou dedicando meu tempo ao aprimoramento no campo do Back-End, onde encontro minha verdadeira paixão.
 
-- 💻 Tenho focado em python, e estou me envolvendo cada vez mais nesse meio.
-- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas ½.
+- 💻 Tenho focado em python, e estou me aprofundando cada vez mais nesse meio.
+- 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas.
 - 👥 Gosto de conversar sobre Tecnologias.
 - 🔗 Estou fazendo um site sobre meu Discord, aonde passo meu tempo com meu amigos [meu site](https://reddogsz.github.io/OS-CARA-TANKA/).
 
@@ -42,7 +42,7 @@ Meu nome é Ryan Kayki, tenho 16 anos, e estou cursando atualmente em desenvolvi
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKayki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<p align="left">Obrigado por ver até aqui, se quiser entrar em contato, está logo abaixo 😁</p>
+<p align="left">Agradeço por acompanhar até aqui. Caso queira entrar em contato, as informações estão logo abaixo. 😁</p>
 
 <a href="https://www.linkedin.com/in/ryan-kayki-pedroso-santos-752723294/">
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
