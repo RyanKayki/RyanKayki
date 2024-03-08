@@ -41,7 +41,7 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 <div>
 <a href="https://github.com/RyanKayki">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanKayki&layout=compact&langs_count=7&theme=dobrinext-midnight&bg_color=0d1117&text_color=c9d1d9"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKayki&show_icons=true&theme=dobrinext-midnight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&hide=css,html,csharp&langs_count=10&layout=compact"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanKayki&show_icons=true&theme=dobrinext-midnight&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&hide=python&langs_count=10&layout=compact"/>
 </div>
 
 <p align="left">Agradeço por acompanhar até aqui. Caso queira entrar em contato, as informações estão logo abaixo. 😁</p>
