@@ -10,7 +10,8 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 - 🔗 Também tenho um site pessoal aonde falo mais sobre mim. [meu site](https://ryankayki.vercel.app/).
 
 ----
-
+#### Minha stack do dia a dia: 
+<div>
  <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=0078D4">
