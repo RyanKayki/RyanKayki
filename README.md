@@ -7,7 +7,7 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 - 💻 Tenho focado em python, e estou me aprofundando cada vez mais nesse meio.
 - 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas.
 - 👥 Gosto de conversar sobre Tecnologias.
-- 🔗 Estou fazendo um site sobre meu Discord, aonde passo meu tempo com meu amigos [meu site](https://reddogsz.github.io/OS-CARA-TANKA/).
+- 🔗 Estou fazendo um site sobre meu Discord, aonde passo meu tempo com meu amigos [meu site](https://ryankayki.vercel.app/).
 
 ----
 
