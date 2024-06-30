@@ -12,13 +12,13 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 ----
 #### Minha stack do dia a dia: 
 <div>
- <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="30em" src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=0078D4">
-  <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/STORYBOOK-F2437E?style=for-the-badge&logo=storybook&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">>
   <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
-  <img height="30em" src="https://img.shields.io/badge/MacOS-18242F?style=for-the-badge&logo=apple&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </br>
 
@@ -26,24 +26,21 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 <div>
     <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img height="30em" src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 </br>
 
 #### Ferramentas que gosto de usar:
 <div>
-    <img height="30em" src="https://img.shields.io/badge/notion-20232A?style=for-the-badge&logo=notion&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/INSOMNIA-5201CB?style=for-the-badge&logo=insomnia&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/VITE-141414?style=for-the-badge&logo=vite&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/VERCEL-2D333B?style=for-the-badge&logo=vercel&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/FlutterFlow-0769AD?style=for-the-badge&logo=flutterflow&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
 </div>
 
 ----
