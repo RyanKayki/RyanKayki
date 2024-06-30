@@ -14,6 +14,7 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
 <div>
   <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img height="30em" src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
