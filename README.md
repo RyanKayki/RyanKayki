@@ -2,7 +2,7 @@
 
 ----
 
-Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento de sistemas. Atualmente, estou dedicando meu tempo ao aprimoramento no campo do Back-End, onde encontro minha verdadeira paixão.
+Me chamo Ryan Kayki, 17 anos, atualmente dedica-se ao aperfeiçoamento no campo do Back-End, onde é minha principal área de interesse e foco.
 
 - 💻 Tenho focado em python, e estou me aprofundando cada vez mais nesse meio.
 - 👨🏾‍💻 Atualmente estou cursando no Senai, Desenvolvimento de Sistemas.
