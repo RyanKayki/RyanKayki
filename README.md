@@ -20,28 +20,11 @@ Me chamo Ryan Kayki, tenho 17 anos e estou imerso no universo do desenvolvimento
   <img height="30em" src="https://img.shields.io/badge/GITHUB-2D333B?style=for-the-badge&logo=github&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/VERCEL-2D333B?style=for-the-badge&logo=vercel&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 </br>
-
-#### Também tenho conhecimento de:
-<div>
-    <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</div>
-</br>
-
-#### Ferramentas que gosto de usar:
-<div>
-    <img height="30em" src="https://img.shields.io/badge/VERCEL-2D333B?style=for-the-badge&logo=vercel&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/FlutterFlow-0769AD?style=for-the-badge&logo=flutterflow&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
-    <img height="30em" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-</div>
 
 ----
 
