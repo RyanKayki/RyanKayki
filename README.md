@@ -2,12 +2,12 @@
 
 ----
 
-Me chamo Ryan Kayki, 18 anos, atualmente dedica-se ao aperfeiçoamento no campo do Back-End, onde é minha principal área de interesse e foco.
+Me chamo **Ryan Kayki**, tenho 18 anos e atualmente estou focado no aprimoramento da minha carreira no **Back-End**, área que considero minha principal paixão e interesse.
 
-- 💻 Tenho focado em python, e estou me aprofundando cada vez mais nesse meio.
-- 👨🏾‍💻 Atualmente estou na faculdade de Tecnologia em Mecatrônica Industrial, ja cursei Desenvolvimento de Sistemas no senai.
-- 👥 Gosto de conversar sobre Tecnologias.
-- 🔗 Também tenho um site pessoal aonde falo mais sobre mim. [meu site](https://ryankayki.vercel.app/).
+- 💻 **Tecnologias**: Tenho me dedicado ao aprendizado profundo de **Python**, e cada vez mais me aventuro neste universo.
+- 👨🏾‍💻 **Formação**: Estou cursando **Tecnologia em Mecatrônica Industrial**, e já passei pela formação em **Desenvolvimento de Sistemas** pelo SENAI.
+- 👥 **Interesses**: Adoro conversar sobre **tecnologia** e como ela impacta nossas vidas.
+- 🔗 **Site Pessoal**: Conheça mais sobre minha trajetória no meu [site pessoal](https://ryankayki.vercel.app/).
 
 ----
 #### Minha stack do dia a dia: 
