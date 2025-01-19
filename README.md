@@ -4,9 +4,9 @@
 
 Me chamo **Ryan Kayki**, tenho 18 anos e atualmente estou focado no aprimoramento da minha carreira no **Back-End**, área que considero minha principal paixão e interesse.
 
-- 💻 **Tecnologias**: Tenho me dedicado ao aprendizado profundo de **Python**, e cada vez mais me aventuro neste universo.
+- 💻 **Tecnologias**: Tenho me dedicado ao aprendizado profundo de **Python**, e cada vez estudando mais novas tecnologias.
 - 👨🏾‍💻 **Formação**: Estou cursando **Tecnologia em Mecatrônica Industrial**, e já passei pela formação em **Desenvolvimento de Sistemas** pelo SENAI.
-- 👥 **Interesses**: Adoro conversar sobre **tecnologia** e como ela impacta nossas vidas.
+- 👥 **Interesses**: Curto conversar sobre tecnologia, principalmente sobre sistemas de **Automação**.
 - 🔗 **Site Pessoal**: Conheça mais sobre minha trajetória no meu [site pessoal](https://ryankayki.vercel.app/).
 
 ----
